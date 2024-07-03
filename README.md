@@ -15,5 +15,6 @@ The HomePage of the Website is with<b> main.html</b> file.
 
 ![alt text](https://github.com/aashmitraj/travel-project-/blob/main/Screeshort/adventure.PNG)
 ![alt text](https://github.com/aashmitraj/travel-project-/tree/main/screenshot/package1.PNG?raw=true)
-![alt text](https://github.com/aashmitraj/travel-project-/tree/main/screenshot/package2.PNG?raw=true)
+![alt text](https://github.com/aashmitraj/travel-project-/blob/main/Screeshort/package2.PNG)
 ![alt text](https://github.com/aashmitraj/travel-project-/blob/main/Screeshort/contact.PNG)
+![alt text](https://github.com/aashmitraj/travel-project-/blob/main/Screeshort/footer.PNG)
