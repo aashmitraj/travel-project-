@@ -9,7 +9,7 @@ Here I used <b>Html, Css & javascript</b> To create the front end part of the we
 
 The HomePage of the Website is with<b> main.html</b> file.
 
-![alt text](https://github.com/aashmitraj/travel-project-/tree/main/screenshot/home.PNG?raw=true)
+![alt text](https://github.com/aashmitraj/travel-project-/blob/main/Screeshort/home.PNG)
 
 <h1><b>Other Screenshots of the Pages are.</b></h1>
 
