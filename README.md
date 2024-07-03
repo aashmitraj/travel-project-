@@ -3,7 +3,7 @@
 [Enhancement: Add A Section For Contributors on The Home Page ] <br>
 [Enhancement: Separate Pages For Popular Packages ]<br><br>
 DEMO-> https://github.com/aashmitraj/travel-project/
- &amp; Travel Project (Using Html, Css, Php, Javascript).
+ Travel Project (Using Html, Css, Php, Javascript).
 
 Here I used <b>Html, Css & javascript</b> To create the front end part of the website and for storing the Contact Information in the Database we used <b>php</b> as a backend language.
 
